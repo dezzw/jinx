@@ -16,7 +16,7 @@ You should have received a copy of the GNU General Public License
 along with GNU Emacs.  If not, see <https://www.gnu.org/licenses/>.  */
 
 #include <emacs-module.h>
-#include <enchant.h>
+#include "/opt/homebrew/include/enchant-2/enchant.h"
 #include <stdlib.h>
 #include <string.h>
 
